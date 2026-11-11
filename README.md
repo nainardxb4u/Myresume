@@ -13,7 +13,7 @@ python3 -m http.server 8000 --bind 127.0.0.1
 
 Then visit `http://127.0.0.1:8000`.
 
-Use **Print / Save PDF** for a clean A4 export.
+Download [`Nainar-Mohamed-Resume.pdf`](./Nainar-Mohamed-Resume.pdf), or use **Download PDF** / **Print** on the page.
 
 ## Notes
 
